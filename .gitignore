@@ -1,8 +1,10 @@
 # project
 _site
+site
 .sass-cache
 .vagrant
 .bash_history
+.bundle
 
 # general
 .DS_Store
