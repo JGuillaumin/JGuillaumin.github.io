@@ -1,0 +1,18 @@
+---
+0.1.0 octokit:~> 3.3|checksum:7ca8b40a58bf758bcc3a4c8d8ae56292997fd8ed0a3da8e9beab33188a44d6af,ruby:>= 0
+1.0.0 octokit:~> 4.0|checksum:e38e6da6890dfceaf798a07009d913456a1f1f9390af2d335525129ca92d4aa9,ruby:>= 0
+1.1.0 octokit:~> 4.0|checksum:
+1.2.0 octokit:~> 4.0|checksum:5ab99ee2a74a32f03adac77ea6f26212d859ad062503be95b1a5a826f9266801,ruby:>= 0,rubygems:>= 0
+1.3.0 octokit:~> 4.0|checksum:7756ab19521e7e223ce0ed4917729b6c98bb54f139e0ea4bd6c61398817c6772,ruby:>= 0,rubygems:>= 0
+1.4.0 octokit:~> 4.0|checksum:0f0e051aaa94362a26e7d85c6935da85d9101128f761063c75ab06e913eb3f7d,ruby:>= 0,rubygems:>= 0
+1.5.0 octokit:~> 4.0|checksum:32cf7d4ed8580910b4726a91d17343ae8b7b9f28fb360cde62747d17d2dc38c9,ruby:>= 0,rubygems:>= 0
+1.6.0 octokit:~> 4.0|checksum:647b3ec12df907e8d8f6d2404c91f2ee479bb50d10f7183ca3568ad7d7ce5a6c,ruby:>= 0,rubygems:>= 0
+1.7.0 octokit:~> 4.0|checksum:d3c6652d5a2937100778448fdff8a9cfa130363f807085299e5e3542f2b6600f,ruby:>= 0,rubygems:>= 0
+1.8.0 octokit:~> 4.0|checksum:86a1f968a4b5600dc61ac05852f106577cbd4df863c59f118fb100ae66a09e07,ruby:>= 0,rubygems:>= 0
+1.9.0 octokit:~> 4.0|checksum:3bd742d6f82d90bc04d2d356f6007712bb0ccc86b456b4f00dfe840de250cc6a,ruby:>= 0,rubygems:>= 0
+1.10.0 octokit:~> 4.0|checksum:6981618525f59d01b4a60e22f2a6d7022c9d21be39883ec29a056c7ce4b2a24f,ruby:>= 0,rubygems:>= 0
+1.11.0 octokit:~> 4.0|checksum:43f13e3dd89f169c8047f7f6d2e248d5040b0fa7e6eb8be7cb6f35790c894d81,ruby:>= 0,rubygems:>= 0
+1.11.1 octokit:~> 4.0|checksum:860a8f6f517f9984d694667ab4058449ebac8874e74284e53bd251839562042e,ruby:>= 0,rubygems:>= 0
+2.0.0 jekyll:~> 3.1,octokit:~> 4.0|checksum:966d0b4418c7169eca048a7178a2d5d7664ec82175234b7a7326b35c71e491d1,ruby:>= 0,rubygems:>= 0
+2.0.1 jekyll:~> 3.1,octokit:~> 4.0|checksum:e509dbf3443e13b410a6d109378e3b41e1d84bff540a30b36b4fe067c437a5c5,ruby:>= 0,rubygems:>= 0
+2.0.2 jekyll:~> 3.1,octokit:~> 4.0|checksum:12168823d032597f3bbed2986e4094bc498c4176dd821f2dc445101697d35d5f,ruby:>= 0,rubygems:>= 0

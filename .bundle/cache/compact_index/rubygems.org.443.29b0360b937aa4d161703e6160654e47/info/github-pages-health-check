@@ -1,0 +1,23 @@
+---
+0.1.0 net-dns:~> 0.6,public_suffix:~> 1.4|checksum:d552e4f2671a08c55864c521c29912330c9e69d556a49d601e3172038e9d8946,ruby:>= 1.9.3
+0.1.1 net-dns:~> 0.6,public_suffix:~> 1.4|checksum:8da50bc16a6586b26be078acebb1a785e0f7c7946208945ef404c14009073ba0,ruby:>= 1.9.3
+0.2.1 net-dns:~> 0.6,public_suffix:~> 1.4|checksum:1b73781e6686078fc9a9d49c82ed8c3cc8e673d3576ae494036480e3b1163e89,ruby:>= 1.9.3
+0.2.2 net-dns:~> 0.6,public_suffix:~> 1.4|checksum:a44806372ad0593c4cf496e1613f3d628e0d65ab1bf19426119e0dfcc83046ad,ruby:>= 1.9.3
+0.3.0 net-dns:~> 0.6,public_suffix:~> 1.4|checksum:7f5c82b186217337f77e42f6a92a9f87b15f7eef01b2dd9120750efd97f4abb8,ruby:>= 1.9.3
+0.3.1 net-dns:~> 0.6,public_suffix:~> 1.4|checksum:d975fae451d54bc1f5651e56203ba8d91c01feaa34ae0bf52f652e9829c03a7b,ruby:>= 1.9.3
+0.3.2 net-dns:~> 0.6,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:
+0.4.0 addressable:~> 2.3,net-dns:~> 0.6,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:
+0.4.1 addressable:~> 2.3,net-dns:~> 0.6,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:
+0.4.2 addressable:~> 2.3,net-dns:~> 0.8,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:
+0.5.0 addressable:~> 2.3,net-dns:~> 0.8,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:
+0.5.1 addressable:~> 2.3,net-dns:~> 0.8,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:
+0.5.2 addressable:~> 2.3,net-dns:~> 0.8,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:
+0.5.3 addressable:~> 2.3,net-dns:~> 0.8,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:
+0.6.0 addressable:~> 2.3,net-dns:~> 0.8,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:2164318c8fd97fb2d0aaea4c448c2e3165fc408dcca9a4ce525912020a468d22,ruby:>= 1.9.3,rubygems:>= 0
+0.6.1 addressable:~> 2.3,net-dns:~> 0.8,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:b7a316704c0effcd6f2a4f8e5397541a1b55ecf65fa825337c8c310f3e89a345,ruby:>= 1.9.3,rubygems:>= 0
+1.0.0 addressable:~> 2.3,net-dns:~> 0.8,octokit:~> 4.0,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:98464c3168e971c22e90ce7ae9f12202c21d9e6d0614461f114efccbca61068c,ruby:>= 1.9.3,rubygems:>= 0
+1.0.1 addressable:~> 2.3,net-dns:~> 0.8,octokit:~> 4.0,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:957cd01a15a7a31fda1861a766e3ed2631d4f93a5ecf1893f8ced67a4e06c158,ruby:>= 1.9.3,rubygems:>= 0
+1.1.0 addressable:~> 2.3,net-dns:~> 0.8,octokit:~> 4.0,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:ce12fb7afc623da1990495851d5ed0c02ee946a7a6dfb4e9d061393b22672c74,ruby:>= 1.9.3,rubygems:>= 0
+1.1.1 addressable:~> 2.3,net-dns:~> 0.8,octokit:~> 4.0,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:b9286f23ba46178a50bd0f9bb30eb794b04fa28d5eb2d16cbc391c8223a6487e,ruby:>= 1.9.3,rubygems:>= 0
+1.1.2 addressable:~> 2.3,net-dns:~> 0.8,octokit:~> 4.0,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:6f9fd0a33feaf36286ea7f628c0d2a59c84e5db36b04cc454221acffe6e3aa2b,ruby:>= 1.9.3,rubygems:>= 0
+1.2.0 addressable:~> 2.3,net-dns:~> 0.8,octokit:~> 4.0,public_suffix:~> 1.4,typhoeus:~> 0.7|checksum:166c464cbac6289d866af0bdf6055432d3493a3022d6bfec852c60d6b793c239,ruby:>= 1.9.3,rubygems:>= 0

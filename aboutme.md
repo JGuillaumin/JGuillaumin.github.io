@@ -1,16 +1,31 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+##subtitle: Why you'd want to go on a date with me
+css: "/css/aboutme.css"
+bigimg:
+  - "/img/big-imgs/dalbosc.png" : "Dalbosc, France (2014)"
+  - "/img/big-imgs/bariloche.JPG" : "Bariloche, Argentina (2015)"
+  - "/img/big-imgs/captown1.jpg" : "Cape Town, South Africa (2015)"
+  - "/img/big-imgs/esquel.jpg" : "Esquel, Argentina (2015)"
+  - "/img/big-imgs/marines.jpg" : "Marines, France"
+  - "/img/big-imgs/minou.jpg" : "Plage du Minou, France (2014)"
+  - "/img/big-imgs/paques.JPG" : "Easter Island, Chile (2015)"
+  - "/img/big-imgs/captown2.jpg" : "Cape Town, South Africa (2015)"
+
+---
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**[Under Construction]**
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+ - French student at Télécom Bretagne (graduate engineering school in Brest, France)
+ - Currently an intern at Continantal, France. 
 
-What else do you need?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<div id="contactme-section">
+<h1 id="contact">Contact</h1>
+
+<p>You can find <a href="mailto:julien.guillaumin@telecom-bretagne.eu">my email here </a></p>
+
+</div>

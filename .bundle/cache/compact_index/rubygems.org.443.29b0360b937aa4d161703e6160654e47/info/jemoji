@@ -1,0 +1,21 @@
+---
+0.0.1 gemoji:>= 0,jekyll:>= 0|checksum:e767ca1b9c894f3eda0122ae7f1080f82cd173217167c5ba9384d839b98b997e
+0.0.2 gemoji:>= 0,jekyll:>= 0|checksum:7773be0dbcc4f4ab9f203c868df1adcbbce8e6992a1e4fcbb0b6099f3b5add2f
+0.0.3 gemoji:>= 0,jekyll:>= 0|checksum:69960da5856c9134b46139fa9f6e9e5a74c42af640ded8d574527f415ce341b2
+0.0.4 gemoji:>= 0,html-pipeline:>= 0,jekyll:>= 0|checksum:c6c06e6b2b176be135e2d289aae7edd36dd09b8a6f2ddd42198072a1e18481d4
+0.0.5 gemoji:>= 0,html-pipeline:>= 0,jekyll:>= 0|checksum:757df4ea7a7cbde8deb48f6786cd43305d01c42d3b61b61714c620c7ed72337b
+0.0.6 gemoji:>= 0,html-pipeline:>= 0,jekyll:>= 0|checksum:5cb85dd52326ff3026da637b09cbab4d7edb2a6cd830efd6a4b95feefcd6336f
+0.0.7 gemoji:>= 0,html-pipeline:>= 0,jekyll:>= 0|checksum:445ad478b24f69ced8fe60e67b985aedc79f6ca9eb93e45fd3ea98ff8312c1f5
+0.0.8 gemoji:>= 0,html-pipeline:>= 0,jekyll:>= 0|checksum:043641aa69d9b46841b5280a878ebe3d2efc09c7f2d8f38fc33b998391ef913c
+0.0.9 gemoji:~> 1.5.0,html-pipeline:~> 1.5.0,jekyll:~> 1.4.3|checksum:7ecafab44b903f4d035d8029d2f0ab99b210c4f27a1d52f2bbc060fdbd060e68
+0.0.10 gemoji:~> 1.5.0,html-pipeline:~> 1.5.0,jekyll:~> 1.4.3|checksum:01b552d773a148ca5d7447f9bb1ad6fee30889b3f62403d89af9404391d16008
+0.1.0 gemoji:~> 1.5.0,html-pipeline:~> 1.5.0,jekyll:~> 1.4|checksum:10eab003f573828022690eb7d65a46624f967e6032cee6be961f198f19a309e9,ruby:>= 0
+0.2.0 gemoji:~> 1.5.0,html-pipeline:~> 1.5.0,jekyll:~> 2.0|checksum:5c54b076dcbc6fa64c6db450bb40b90bba2a771149183407a315f3b52d105b79,ruby:>= 0
+0.3.0 gemoji:~> 2.0,html-pipeline:~> 1.9,jekyll:~> 2.0|checksum:cfad3f2d350afdd33e6e45198513f8d0e6cdd640a74537683380ad850ab8708e,ruby:>= 0
+0.4.0 gemoji:~> 2.0,html-pipeline:~> 1.9,jekyll:~> 2.0|checksum:22785d5324b146acaa3c1cfa338d2cb1e44b0b579e0eb128dd4729e81fa5d9a3,ruby:>= 0
+0.5.0 gemoji:~> 2.0,html-pipeline:~> 1.9,jekyll:>= 2.0|checksum:61953b0d38d22b9890d32e0200b958127ebb183b5f0390acd97f0607327142a6,ruby:>= 0
+0.5.1 gemoji:~> 2.0,html-pipeline:~> 2.2,jekyll:>= 2.0|checksum:
+0.6.0 gemoji:~> 2.0,html-pipeline:~> 2.2,jekyll:>= 3.0|checksum:2523952a0385274a03fee816c8a2608883eb02381afe61c9b75a6d7073ed0eb8,ruby:>= 0,rubygems:>= 0
+0.6.1 gemoji:~> 2.0,html-pipeline:~> 2.2,jekyll:>= 3.0|checksum:829753c069ba1dcfbc5657a3e2fd75c05e5031736ac368b08fc11cf525319a9c,ruby:>= 0,rubygems:>= 0
+0.6.2 gemoji:~> 2.0,html-pipeline:~> 2.2,jekyll:>= 3.0|checksum:b1657cc6657b498e58b7386b10f45733e01d19ceb00e8616bce8a973aaee1f24,ruby:>= 0,rubygems:>= 0
+0.7.0 activesupport:~> 4.0,gemoji:~> 2.0,html-pipeline:~> 2.2,jekyll:>= 3.0|checksum:f86a19c8941808e4eaf4e2a3e8df638cc1d4103203da6b6c6d1aefa822c6dd8f,ruby:>= 0,rubygems:>= 0
