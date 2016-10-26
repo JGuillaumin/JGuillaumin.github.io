@@ -57,7 +57,7 @@ Nous verrons ensemble que theano génère du code automatiquement pour CPU ou GP
 Pour utiliser votre carte graphique (uniquement Nvidia) je vous invite à suivre les instruction sur <a href="http://deeplearning.net/software/theano/install_ubuntu.html#install-ubuntu">cette page</a>.
 Il vous faudra avoir des drivers graphiques à jour !
 
-**Mais sachez que l'installation des drivers Nvidia, de CUDA et ses dépendances sont compliquées, surtout sur les ordinateurs portables avec la technologie _Optimus_ de Nvidia**
+**Mais sachez que l'installation des drivers Nvidia, de CUDA et ses dépendances est compliquée, surtout sur les ordinateurs portables avec la technologie _Optimus_ de Nvidia**
 
 **Pour notre atelier, les données et modèles étant relativement simples, installer rapidement theano, pour faire tourner les calculs uniquement sur CPU ira très bien !!**
 
