@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Soirée Deep Learning - No BlaBla - Otober 15, 2016
+title: Soirée Deep Learning - No BlaBla - 18 & 28 janvier 2017
 subtitle: Informations sur l'atelier Deep Learning avec le MeetUp "Toulouse Data Science"
 bigimg: /img/post/deeplearning-noblabla.png
 tags: [deep-learning, workshop, TDS, tutorial]
