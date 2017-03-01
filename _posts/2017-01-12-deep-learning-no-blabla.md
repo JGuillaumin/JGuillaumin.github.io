@@ -6,7 +6,8 @@ bigimg: /img/post/deeplearning-noblabla.png
 tags: [deep-learning, workshop, TDS, tutorial]
 ---
 
--> Tout est indiqué ici : https://github.com/JGuillaumin/DeepLearning-NoBlaBla
+-> Tout est indiqué ici : <a href="https://github.com/JGuillaumin/DeepLearning-NoBlaBla">https://github.com/JGuillaumin/DeepLearning-NoBlaBla</a>
+
 
 Vous trouverez ici les informations concernant l'atelier Deep Learning avec le MeetUp "Toulouse Data Science" ! 
 
@@ -14,4 +15,4 @@ Vous trouverez ici les informations concernant l'atelier Deep Learning avec le M
 - Instructions d'installation sans Docker
 - Télécharger le contenu de l'atelier 
 
--> Tout est indiqué ici : https://github.com/JGuillaumin/DeepLearning-NoBlaBla
+-> Tout est indiqué ici : <a href="https://github.com/JGuillaumin/DeepLearning-NoBlaBla">https://github.com/JGuillaumin/DeepLearning-NoBlaBla</a>
