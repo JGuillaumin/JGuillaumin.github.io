@@ -19,7 +19,20 @@ bigimg:
 **[Under Construction]**
 
  - French student at Télécom Bretagne (graduate engineering school in Brest, France)
- - Currently an intern at Continantal, France. 
+
+ - Intern at Thales Services, France (March 2016 - Sept 2016)
+    - Image processing at scale with Apache Spark.
+    - Pansharpening and othorectification methods for huge satellite images.
+    - Tools : Spark (Java API), SWIG, GDAL library, HDFS, Maven
+
+
+ - Intern at Continantal, France (Oct 2016 - Apr 2017)
+    - Deep Learning for ADAS : Traffic light recognition systems
+    - Tools : Keras, TensorFlow, LMDB, HDF5, Python.
+
+	 
+ - Now, Deep Learning expert at LightOn, France (Jun 2017 - )
+
 
 
 
