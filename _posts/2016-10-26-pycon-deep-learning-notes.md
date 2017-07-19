@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes and Corrections from Deep Learning Workshop at PyCon France - Otober 15, 2016
+title: Notes and Corrections from Deep Learning Workshop at PyCon France - October 15, 2016
 subtitle: Information about the workshop
 bigimg: /img/post/deeplearning-bigimg.png
 tags: [deep-learning, workshop, pycon, tutorial]
